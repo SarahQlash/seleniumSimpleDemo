@@ -37,7 +37,7 @@ allure.bat serve allure-results
 ```
 allure-results this where the output of test
 
-###Make sure that you have allure framwork on your local machine
+### Make sure that you have allure framwork on your local machine
 You should install allure framwork on your local machine from here `https://github.com/allure-framework/allure2/releases`,
 then make sure that you add bin into System Variables 
 You are ready now to run the allure commands above and get your report.
